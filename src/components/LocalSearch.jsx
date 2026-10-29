@@ -48,7 +48,8 @@ export default function LocalSearch() {
     return matchesSearch && matchesCategory;
   });
   return (
-    <div style={{ padding: '2rem', maxWidth: '1200px', margin: '0 auto', fontFamily: 'sans-serif' }}>
+    <div style={{ padding: '2rem', maxWidth: '1200px', margin: '0 auto', fontFamily: 'sans-serif', minHeight: '100vh', 
+        overflowY: 'auto'  }}>
    <header style={{ marginBottom: '2rem', textAlign: 'center' }}>
   <div style={{ 
       display: 'flex', 

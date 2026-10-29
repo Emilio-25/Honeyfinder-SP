@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Honeyfinder</string>
+    <string name="title_activity_main">Honeyfinder</string>
+    <string name="package_name">com.honeyfinder.app</string>
+    <string name="custom_url_scheme">com.honeyfinder.app</string>
+</resources>
